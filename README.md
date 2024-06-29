@@ -13,7 +13,7 @@ This project performs an exploratory data analysis (EDA) of air quality levels i
 
 ## Project Contents
 
-- **EDA_Calidad_Aire_Duitama.ipynb**: The Jupyter notebook containing the complete code and analysis.
+- **eda.ipynb**: The Jupyter notebook containing the complete code and analysis.
 - **data/**: Folder containing the CSV file with the air quality data.
 - **README.md**: This file, describing the project.
 - **requirements.txt**: File with the dependencies required to run the analysis.
